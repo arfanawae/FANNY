@@ -9,7 +9,7 @@ export default function Greeting({
     return (
         <div className="p-8">
             <p className="mt-4 text-xl">
-                สวัสดี {name}
+                ยินดีต้อนรับครับคุณ {name}
             </p>
         </div>
     );
